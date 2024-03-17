@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F+NQuKhnNJATccKzeUmv7qKDfLq5ATaVQN8JxLMO/azYtTSYqumVFkXrD/9qConhjcM+O21I6MyH7nm+MXbvA==",
+  "success": true,
+  "projectFilePath": "/Users/procopiouriel/Projects/Moq-Framework/Moq-Framework/Moq-Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/procopiouriel/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools/9.9.3963/google.ortools.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.linux-arm64/9.9.3963/google.ortools.runtime.linux-arm64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.linux-x64/9.9.3963/google.ortools.runtime.linux-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.osx-arm64/9.9.3963/google.ortools.runtime.osx-arm64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.osx-x64/9.9.3963/google.ortools.runtime.osx-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.win-x64/9.9.3963/google.ortools.runtime.win-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.protobuf/3.25.3/google.protobuf.3.25.3.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

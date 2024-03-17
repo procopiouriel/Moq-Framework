@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{C114EFF3-D16C-4A4B-BFFF-185E7F4D2671}|Default">
+  <MonoDevelop.Ide.ItemProperties.Moq-Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Moq-Framework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
